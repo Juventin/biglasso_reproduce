@@ -1,0 +1,18 @@
+     PID         DATE      TIME      ELAPSED    CPU    MEM       RSS     VSIZE       CMD
+   31527   2016-12-09  16:23:52        00:00    0.0    0.0      1120   2433368  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:53        00:01  100.0    1.1    178116   3262384  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:54        00:02   99.7    2.0    343232   3262384  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:55        00:03  100.0    3.0    508376   3262384  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:56        00:04  100.0    4.0    671500   3262384  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:57        00:05  100.0    5.9    986732   3663852  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:58        00:06  100.0    8.6   1449488   4056044  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:23:59        00:07  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:00        00:08  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:01        00:09  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:02        00:10  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:03        00:11  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:04        00:12  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:05        00:13  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:06        00:14   99.4   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:07        00:15  100.0   10.0   1679276   4149660  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=ncvreg_memory.R
+   31527   2016-12-09  16:24:08        00:16    0.0    0.0         0         0       (R)

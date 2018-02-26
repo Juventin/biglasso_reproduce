@@ -1,0 +1,22 @@
+     PID         DATE      TIME      ELAPSED    CPU    MEM       RSS     VSIZE       CMD
+   31636   2016-12-09  16:34:50        00:00    0.0    0.0      1120   2433368  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:51        00:01   99.6    1.1    183400   3270576  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:52        00:02  100.0    2.0    341272   3270576  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:53        00:03  100.0    2.9    481184   3270576  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:54        00:04  100.0    3.7    619196   3270576  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:55        00:05  100.0    4.6    771880   3270576  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:56        00:06  100.0    5.2    875604   3380060  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:57        00:07   99.7   14.2   2388576   4969000  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:58        00:08  100.0   19.3   3240324   5751820  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:34:59        00:09   76.1   27.2   4565168   7314324  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:00        00:10  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:01        00:11  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:02        00:12  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:03        00:13  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:04        00:14  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:05        00:15  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:06        00:16  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:07        00:17  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:08        00:18  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:09        00:19  100.0   24.0   4027136   6538560  /Library/Frameworks/R.framework/Resources/bin/exec/R --slave --no-restore --file=picasso_memory.R
+   31636   2016-12-09  16:35:10        00:20    0.0    0.0         0         0       (R)
