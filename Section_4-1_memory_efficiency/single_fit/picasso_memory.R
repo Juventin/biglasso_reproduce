@@ -2,8 +2,8 @@ remove(list = ls())
 gc()
 
 require(picasso)
-# Assume current working directory set to be folder "JSS_biglasso_reproduce/"
-# setwd("~/GitHub/biglasso_experiment/JSS_biglasso_reproduce/")
+# Assume current working directory set to be folder "biglasso_reproduce/"
+# setwd("~/GitHub/biglasso_experiment/biglasso_reproduce/")
 setwd("./Section_4-1_memory_efficiency/")
 load("x_e3_e5.RData")
 y <- as.matrix(read.table("y_e3_e5.txt", header = F))
