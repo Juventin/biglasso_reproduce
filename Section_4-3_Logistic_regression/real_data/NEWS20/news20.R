@@ -1,8 +1,8 @@
 rm(list = ls())
 gc()
 
-# Assume current working directory set to be folder "JSS_biglasso_reproduce/"
-setwd("~/GitHub/biglasso_experiment/JSS_biglasso_reproduce/")
+# Assume current working directory set to be folder "biglasso_reproduce/"
+setwd("~/GitHub/biglasso_experiment/biglasso_reproduce/")
 setwd("./Section_4-3_Logistic_regression/real_data/NEWS20/")
 
 source("../real_utilities_logistic.R")
