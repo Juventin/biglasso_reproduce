@@ -6,14 +6,14 @@ require(glmnet)
 require(ggplot2)
 require(picasso)
 
-# Assume current working directory set to be folder "JSS_biglasso_reproduce/"
-# setwd("~/GitHub/biglasso_experiment/JSS_biglasso_reproduce/")
+# Assume current working directory set to be folder "biglasso_reproduce/"
+# setwd("~/GitHub/biglasso_experiment/biglasso_reproduce/")
 load("./Section_2-2/bcTCGA.RData")
 p <- ncol(X)
 n <- nrow(X)
 x.bm <- as.big.matrix(X, type = 'double')
 
-## replicate JSS paper figure 1
+## replicate figure 1
 # ---------------------------------------------------------------------
 eps <- 1e-8
 lam.min <- 0.1
