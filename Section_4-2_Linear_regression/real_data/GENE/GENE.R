@@ -6,9 +6,9 @@ require(ggplot2)
 require(picasso)
 require(microbenchmark)
 
-# Assume current working directory set to be folder "JSS_biglasso_reproduce/"
+# Assume current working directory set to be folder "biglasso_reproduce/"
 # Change to this directory if not.
-setwd("~/GitHub/biglasso_experiment/JSS_biglasso_reproduce/")
+setwd("~/GitHub/biglasso_experiment/biglasso_reproduce/")
 load("./Section_4-2_Linear_regression/real_data/GENE/bcTCGA.RData")
 
 x <- X
