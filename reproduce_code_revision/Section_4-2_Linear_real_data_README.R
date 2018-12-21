@@ -1,5 +1,5 @@
 ## -----------------------------------------------------------------------------
-## Replication code accompanying the JSS paper "The biglasso Package: A Memory-
+## Replication code accompanying the paper "The biglasso Package: A Memory-
 ## and Computation-Efficient Solver for Lasso Model Fitting with Big Data in R"
 ## Authors: Yaohui Zeng and Patrick Breheny
 ##
